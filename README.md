@@ -1,3 +1,3 @@
 # SocialNetwork
 
-Using React Router
+Using React Router, Redux, React dropzone, Redux persist, Dotenv, Formik, Yup, JWT
