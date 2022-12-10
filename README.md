@@ -1,13 +1,4 @@
 # SocialNetwork
 
-Using:
-React Router, Redux, @emotion/react, @emotion/styled, material
-React dropzone, 
-Redux persist, 
-Dotenv, 
-Formik, 
-Yup, 
-JWT,
-bcrypt,
-helmet,
-morgan
+Client: React router, Redux, @emotion/react, @emotion/styled, mui/icons-material, mui/material, dotenv, formik, dropzone, persist, yup;
+Server: bcrypt, body-parser, cors, dotenv, express, gridfs-stream, helmet, JWT, mongoose, morgan, multer, multer-gridfs-storage.
